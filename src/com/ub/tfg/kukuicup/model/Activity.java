@@ -9,6 +9,13 @@ public class Activity {
 		super();
 	}
 
+	public Activity(int id, String name, String description) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.description = description;
+	}
+
 	public int getId() {
 		return id;
 	}

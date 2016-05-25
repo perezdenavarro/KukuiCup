@@ -3,6 +3,7 @@ package com.ub.tfg.kukuicup.model;
 public class EnergyChallenge extends Activity {
 	
 	private Badge badge;
+	private int state;
 
 	public EnergyChallenge() {
 		// TODO Auto-generated constructor stub
@@ -20,5 +21,15 @@ public class EnergyChallenge extends Activity {
 	public void setBadge(Badge badge) {
 		this.badge = badge;
 	}
+
+	public int getState() {
+		return state;
+	}
+
+	public void setState(int state) {
+		this.state = state;
+	}
+	
+	
 
 }

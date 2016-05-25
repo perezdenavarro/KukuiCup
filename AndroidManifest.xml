@@ -27,6 +27,10 @@
             android:name=".vista.MenuActivity"
             android:screenOrientation="landscape" >            
         </activity>
+        <activity
+            android:name=".admin.vista.MenuAdminActivity"
+            android:screenOrientation="landscape" >            
+        </activity>
     </application>
     
     

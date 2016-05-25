@@ -8,18 +8,18 @@ public class Player extends User {
 	
 	private int points;
 	private int ranking;
-	private ArrayList<Badge> listBadges;
+	private ArrayList<Badge> badgeList;
 	private int level;
 	private ImageView avatar;
 
 	public Player() {
 		// TODO Auto-generated constructor stub
-		listBadges = new ArrayList<Badge>();
+		badgeList = new ArrayList<Badge>();
 	}
 
 	public Player(int id, String name, String passwd) {
 		super(id, name, passwd);
-		listBadges = new ArrayList<Badge>();
+		badgeList = new ArrayList<Badge>();
 		// TODO Auto-generated constructor stub
 	}
 
@@ -32,7 +32,7 @@ public class Player extends User {
 	}
 
 	public ArrayList<Badge> getListBadges() {
-		return listBadges;
+		return badgeList;
 	}
 
 	public int getLevel() {
@@ -48,7 +48,7 @@ public class Player extends User {
 	}
 
 	public void setListBadges(ArrayList<Badge> listBadges) {
-		this.listBadges = listBadges;
+		this.badgeList = listBadges;
 	}
 
 	public void setLevel(int level) {

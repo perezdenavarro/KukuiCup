@@ -1,20 +1,70 @@
 package com.ub.tfg.kukuicup.vista;
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
 import com.ub.tfg.kukuicup.R;
 
 import android.app.Activity;
-import android.content.Context;
+//import android.content.Context;
 import android.os.Bundle;
+import android.widget.ExpandableListView;
 
-public class MenuActivity extends Activity{
+public class MenuActivity extends Activity {
 	
-	private Context ctxt;
+	//private Context ctxt;
+	ExpandableListAdapter listAdapter;
+    ExpandableListView expListView;
+    List<String> listDataHeader;
+    HashMap<String, List<String>> listDataChild;
 	
-	public void OnCreate(Bundle savedInstanceState) {
+	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.main);
+		setContentView(R.layout.menu);
 		
-		ctxt = getApplicationContext();
+		//ctxt = getApplicationContext();
+        
+		// get the listview
+        expListView = (ExpandableListView) findViewById(R.id.lvExp);
+ 
+        // preparing list data
+        prepareListData();
+ 
+        listAdapter = new ExpandableListAdapter(this, listDataHeader, listDataChild);
+ 
+        // setting list adapter
+        expListView.setAdapter(listAdapter);
 	}
+    /*
+     * Preparing the list data
+     */
+    private void prepareListData() {
+        listDataHeader = new ArrayList<String>();
+        listDataChild = new HashMap<String, List<String>>();
+ 
+        // Adding child data
+        listDataHeader.add("Saving Actions");
+        listDataHeader.add("Energy Challenge");
+        listDataHeader.add("Science Video");
+ 
+        // Adding child data
+        List<String> action = new ArrayList<String>();
+        action.add("Computer responsible");
+        action.add("Desk light");
+        action.add("Like kukui");
 
+ 
+        List<String> challenge = new ArrayList<String>();
+        challenge.add("Off before sleep");
+
+ 
+        List<String> video = new ArrayList<String>();
+        video.add("Power and energy");
+
+ 
+        listDataChild.put(listDataHeader.get(0), action); // Header, Child data
+        listDataChild.put(listDataHeader.get(1), challenge);
+        listDataChild.put(listDataHeader.get(2), video);
+    }
 }

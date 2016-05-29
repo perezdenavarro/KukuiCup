@@ -1,6 +1,7 @@
 package com.ub.tfg.kukuicup.vista;
 
 import com.ub.tfg.kukuicup.R;
+import com.ub.tfg.kukuicup.admin.vista.MenuAdminActivity;
 
 import android.app.Activity;
 import android.content.Context;
@@ -44,7 +45,7 @@ public class MainActivity extends Activity {
 		
 		level3Btn.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
-				Intent intent = new Intent(ctxt, MenuActivity.class);
+				Intent intent = new Intent(ctxt, MenuAdminActivity.class);
 				startActivity(intent);
 			}
 		});

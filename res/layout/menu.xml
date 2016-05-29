@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent" >
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
 
     <LinearLayout
         android:id="@+id/linearLayout1"
@@ -14,7 +15,7 @@
             android:id="@+id/LevelLabel"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Nivel n" />
+            android:text="Level 1" />
 
         <ProgressBar
             android:id="@+id/LevelProgressBar"
@@ -27,15 +28,16 @@
             android:id="@+id/progressLabel"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="TextView" />
+            android:text="40/50" />
     </LinearLayout>
 
     <ExpandableListView
-        android:id="@+id/menuList"
+        android:id="@+id/lvExp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:layout_below="@+id/linearLayout1">
+        android:layout_below="@+id/linearLayout1"
+        >
 
     </ExpandableListView>
 

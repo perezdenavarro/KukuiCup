@@ -10,7 +10,7 @@ public class MenuAdminActivity extends Activity {
 	
 	private Context ctxt;
 	
-	public void OnCreate(Bundle savedInstanceState) {
+	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.menu_admin);
 		

@@ -7,5 +7,10 @@
         <item >2</item>
         <item >3</item>
     </integer-array>
+    <string-array name="activityTypes">
+        <item >Saving Action</item>
+        <item >Energy Challenge</item>
+        <item >Video</item>
+    </string-array>
 
 </resources>

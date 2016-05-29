@@ -3,5 +3,9 @@
 
     <string name="hello">Hello World, KukuiCupActivity!</string>
     <string name="app_name">KukuiCup</string>
+    <integer-array name="number_of_teams">
+        <item >2</item>
+        <item >3</item>
+    </integer-array>
 
 </resources>

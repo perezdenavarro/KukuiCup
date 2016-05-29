@@ -7,6 +7,7 @@ public class TestForm extends Activity{
 	private int numQuestions;
 	private ArrayList<String> questionList;
 	private ArrayList<String> answerList;
+	private Joke joke;
 	
 	
 	public TestForm() {
@@ -44,5 +45,14 @@ public class TestForm extends Activity{
 	public void setAnswerList(ArrayList<String> answerList) {
 		this.answerList = answerList;
 	}
+
+	public Joke getJoke() {
+		return joke;
+	}
+
+	public void setJoke(Joke joke) {
+		this.joke = joke;
+	}
+	
 	
 }

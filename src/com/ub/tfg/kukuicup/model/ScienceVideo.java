@@ -1,51 +1,33 @@
 package com.ub.tfg.kukuicup.model;
 
-public class ScienceVideo {
-	private int id;
-	private String title;
-	private String description;
-	private String URL;
+public class ScienceVideo extends Activity {
+
+	private String uRL;
+	private TestForm test;
 	
 	public ScienceVideo() {
 	}
 
-	public ScienceVideo(int id, String title, String description, String uRL) {
-		this.id = id;
-		this.title = title;
-		this.description = description;
-		URL = uRL;
-	}
-
-	public int getId() {
-		return id;
-	}
-
-	public String getTitle() {
-		return title;
-	}
-
-	public String getDescription() {
-		return description;
+	public ScienceVideo(String uRL, TestForm test) {
+		this.uRL = uRL;
+		this.test = test;
 	}
 
 	public String getURL() {
-		return URL;
-	}
-
-	public void setId(int id) {
-		this.id = id;
-	}
-
-	public void setTitle(String title) {
-		this.title = title;
-	}
-
-	public void setDescription(String description) {
-		this.description = description;
+		return uRL;
 	}
 
 	public void setURL(String uRL) {
-		URL = uRL;
+		this.uRL = uRL;
 	}
+
+	public TestForm getTest() {
+		return test;
+	}
+
+	public void setTest(TestForm test) {
+		this.test = test;
+	}
+	
 
 }

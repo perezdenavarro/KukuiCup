@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activityTypes">
+        <item>Saving Action</item>
+        <item>Energy Challenge</item>
+        <item>Video</item>
+    </string-array>
+    <integer-array name="number_of_teams">
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+    <color name="shadow">#555555</color>
+    <color name="title">#777777</color>
+    <string name="app_name">KukuiCup</string>
+    <string name="btn_skip_intro">Skip Intro</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="hello">Hello World, KukuiCupActivity!</string>
+    <string name="title_logo">NATIONAL GEOGRAPHIC</string>
+</resources>

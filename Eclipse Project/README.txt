@@ -1,0 +1,1 @@
+This is the KukuiCup project implemented on Eclipse.

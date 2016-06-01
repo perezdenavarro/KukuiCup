@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.ub.tfg.kukuicup"
+        minSdkVersion 10
+        targetSdkVersion 10
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_5
+            targetCompatibility JavaVersion.VERSION_1_5
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.google.apis:google-api-services-youtube:v3-rev174-1.22.0'
+    compile files('C:/Users/Juanmi/StudioProjects/KukuiCup/libs/YouTubeAndroidPlayerApi.jar')
+}

@@ -2,31 +2,36 @@
 <instant-run
     abi="x86"
     api-level="23"
-    density="xxhdpi"
+    density="mdpi"
     format="7"
-    timestamp="84730101740030" >
+    timestamp="138443527864441" >
 
     <task
         name="javac"
-        duration="3450" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1188" />
+        duration="0" />
     <task
         name="verifier"
-        duration="148" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
 
-    <build timestamp="84730101740030" >
+    <build timestamp="137374564934192" >
         <artifact
             location="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="138443527864441" >
+        <artifact
+            location="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

@@ -16,6 +16,14 @@
         "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\layout\\energy_challenge.xml",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\layout\\energy_challenge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\layout\\saving_action.xml",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\layout\\saving_action.xml"
+    },
+    {
         "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_group.xml",
         "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\layout\\list_group.xml"
     },

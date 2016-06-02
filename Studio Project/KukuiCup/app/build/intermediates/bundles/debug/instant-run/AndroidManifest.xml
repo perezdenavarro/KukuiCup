@@ -10,6 +10,10 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
 
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
     <application
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:allowBackup="true"
@@ -44,6 +48,14 @@
         </activity>
         <activity
             android:name="com.ub.tfg.kukuicup.vista.VideoActivity"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.ub.tfg.kukuicup.vista.SavingActionActivity"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.ub.tfg.kukuicup.vista.EnergyChallengeActivity"
             android:screenOrientation="landscape" >
         </activity>
     </application>

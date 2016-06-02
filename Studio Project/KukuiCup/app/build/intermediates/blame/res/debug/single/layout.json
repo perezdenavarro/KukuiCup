@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_admin.xml",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\layout\\menu_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\layout\\energy_challenge.xml",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\layout\\energy_challenge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\layout\\saving_action.xml",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\layout\\saving_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_group.xml",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video.xml",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\layout\\video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tasteit.xml",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\layout\\tasteit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\layout\\login.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\background_land.png",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\drawable-xhdpi\\background_land.png"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\background.png",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_team.png",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\drawable-xhdpi\\ic_team.png"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_level.png",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\drawable-xhdpi\\ic_level.png"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_blocked_level.png",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\drawable-xhdpi\\ic_blocked_level.png"
+    },
+    {
+        "merged": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_user.png",
+        "source": "C:\\Users\\Juanmi\\Documents\\GitHub\\KukuiCup\\Studio Project\\KukuiCup\\app\\src\\main\\res\\drawable-xhdpi\\ic_user.png"
+    }
+]

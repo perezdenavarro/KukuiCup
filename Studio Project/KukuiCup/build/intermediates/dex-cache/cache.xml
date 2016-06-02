@@ -6,91 +6,77 @@
         jumboMode="true"
         revision="23.0.3"
         sha1="6dc7771f5efe159fb26d3ae73dbbbd8837a95939">
-        <dex dex="C:\Users\Juanmi\StudioProjects\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-youtube-v3-rev174-1.22.0_2db93f90aaeecba7f1986f3ad198fb126a83211e\classes.dex" />
+        <dex dex="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-youtube-v3-rev174-1.22.0_2db93f90aaeecba7f1986f3ad198fb126a83211e\classes.dex" />
     </item>
     <item
         jar="C:\Users\Juanmi\StudioProjects\KukuiCup\libs\YouTubeAndroidPlayerApi.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
-        <dex dex="C:\Users\Juanmi\StudioProjects\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_20d00584be98bd84f0480b438504ee4a938646d0\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Juanmi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
-        <dex dex="C:\Users\Juanmi\StudioProjects\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_cc24a193100855aba7655c675bbec1e4290bc204\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="2eec326875c0d9d6c477cf0d8093f26004bde946">
-        <dex dex="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_634ce8db435882e407d4963e9f871e5105260168\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="b14220ab0931e0884876f14cb2b6a342d856d571">
-        <dex dex="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d8b2ca0e3fe4b23e27d792b8ead4c3dc43e1fef6\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Juanmi\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.22.0\1d63f369ac78e4838a3197147012026e791008cb\google-oauth-client-1.22.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="1d63f369ac78e4838a3197147012026e791008cb">
-        <dex dex="C:\Users\Juanmi\StudioProjects\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.22.0_ab90f6f622ed2c97619cde3edc6d57a903a2739e\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Juanmi\StudioProjects\KukuiCup\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="ef7652832e90720d1bf384f8a8f96fb96b09eaf4">
-        <dex dex="C:\Users\Juanmi\StudioProjects\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_09d1c2275abac07897af255f59450544611c5082\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Juanmi\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
-        <dex dex="C:\Users\Juanmi\StudioProjects\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_3ec3208d450e28f7427551e5a8e656d2c6f94929\classes.dex" />
+        <dex dex="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_20d00584be98bd84f0480b438504ee4a938646d0\classes.dex" />
     </item>
     <item
         jar="C:\Users\Juanmi\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.22.0\d441fc58329c4a4c067acec04ac361627f66ecc8\google-http-client-1.22.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
-        <dex dex="C:\Users\Juanmi\StudioProjects\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.22.0_976d8c70508892b7e8b5fd8ff01fa8c6a6763c6f\classes.dex" />
+        <dex dex="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.22.0_976d8c70508892b7e8b5fd8ff01fa8c6a6763c6f\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Juanmi\StudioProjects\KukuiCup\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Juanmi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="dc7c4830ae05b319e2bc725f855fb6a5856e8939">
-        <dex dex="C:\Users\Juanmi\StudioProjects\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b842658a2aec4fdbc3f0c1adc96725ed9253b7cf\classes.dex" />
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_cc24a193100855aba7655c675bbec1e4290bc204\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="59880a37fe77798122bbbe8038be93da8068500e">
+        <dex dex="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_634ce8db435882e407d4963e9f871e5105260168\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="43dcb48f4fea086eb63352a6539aff595e0bd229">
+        <dex dex="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d8b2ca0e3fe4b23e27d792b8ead4c3dc43e1fef6\classes.dex" />
     </item>
     <item
         jar="C:\Users\Juanmi\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.22.0\cc014d64ae11117e159d334c99d9c246d9b36f44\google-http-client-jackson2-1.22.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
-        <dex dex="C:\Users\Juanmi\StudioProjects\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.22.0_5e7e078329dacc6afb8b508666c057ef271c68f0\classes.dex" />
+        <dex dex="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.22.0_5e7e078329dacc6afb8b508666c057ef271c68f0\classes.dex" />
     </item>
     <item
         jar="C:\Users\Juanmi\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.22.0\244350c0c845c583717ade13f5666a452fd0cfa\google-api-client-1.22.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
-        <dex dex="C:\Users\Juanmi\StudioProjects\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.22.0_a40a2c957770df9e77487b2efa85a4dca1f187ec\classes.dex" />
+        <dex dex="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.22.0_a40a2c957770df9e77487b2efa85a4dca1f187ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Juanmi\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.22.0\1d63f369ac78e4838a3197147012026e791008cb\google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.22.0_ab90f6f622ed2c97619cde3edc6d57a903a2739e\classes.dex" />
     </item>
     <item
         jar="C:\Users\Juanmi\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
-        <dex dex="C:\Users\Juanmi\StudioProjects\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-17.0_112bb5b0af1b43a9f721f44055815d28c5f484fe\classes.dex" />
+        <dex dex="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-17.0_112bb5b0af1b43a9f721f44055815d28c5f484fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Juanmi\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_3ec3208d450e28f7427551e5a8e656d2c6f94929\classes.dex" />
     </item>
 
 </items>

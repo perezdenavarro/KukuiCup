@@ -2,19 +2,19 @@
 <instant-run
     abi="x86"
     api-level="23"
-    density="mdpi"
+    density="xxhdpi"
     format="7"
-    timestamp="65097736625333" >
+    timestamp="84730101740030" >
 
     <task
         name="javac"
-        duration="11290" />
+        duration="3450" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2768" />
+        duration="1188" />
     <task
         name="verifier"
         duration="148" />
@@ -23,7 +23,7 @@
         location="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="65097736625333" >
+    <build timestamp="84730101740030" >
         <artifact
             location="C:\Users\Juanmi\Documents\GitHub\KukuiCup\Studio Project\KukuiCup\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />

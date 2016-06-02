@@ -43,6 +43,10 @@
             android:name=".vista.VideoActivity"
             android:screenOrientation="landscape">
         </activity>
+        <activity
+            android:name=".vista.SavingActionActivity"
+            android:screenOrientation="landscape">
+        </activity>
      </application>
     
     

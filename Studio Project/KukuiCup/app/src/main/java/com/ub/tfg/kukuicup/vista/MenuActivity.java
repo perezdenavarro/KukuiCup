@@ -8,6 +8,8 @@ import com.ub.tfg.kukuicup.R;
 
 import android.app.Activity;
 //import android.content.Context;
+import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
@@ -21,12 +23,13 @@ public class MenuActivity extends Activity {
     ExpandableListView expListView;
     List<String> listDataHeader;
     HashMap<String, List<String>> listDataChild;
+    private Context ctxt;
 	
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.menu);
 		
-		//ctxt = getApplicationContext();
+		ctxt = getApplicationContext();
         
 		// get the listview
         expListView = (ExpandableListView) findViewById(R.id.lvExp);
@@ -46,6 +49,18 @@ public class MenuActivity extends Activity {
             public boolean onChildClick(ExpandableListView parent, View v,
                                         int groupPosition, int childPosition, long id) {
                 // TODO Auto-generated method stub
+                if (groupPosition==1 && childPosition==1) {
+                    Intent intent = new Intent(ctxt, SavingActionActivity.class);
+                    startActivity(intent);
+                }
+                if (groupPosition==2 && childPosition==1) {
+                    Intent intent = new Intent(ctxt, EnergyChallengeActivity.class);
+                    startActivity(intent);
+                }
+                if (groupPosition==3 && childPosition==1) {
+                    Intent intent = new Intent(ctxt, VideoActivity.class);
+                    startActivity(intent);
+                }
                 Toast.makeText(
                         getApplicationContext(),
                         listDataHeader.get(groupPosition)

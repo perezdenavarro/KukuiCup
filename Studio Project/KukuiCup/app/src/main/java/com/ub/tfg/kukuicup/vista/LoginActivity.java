@@ -24,7 +24,7 @@ public class LoginActivity extends Activity {
         
         enterBtn.setOnClickListener(new OnClickListener() {
         	public void onClick(View v) {
-        		Intent intent = new Intent(ctxt, VideoActivity.class);
+        		Intent intent = new Intent(ctxt, MainActivity.class);
         		startActivity(intent);
         	}
         });

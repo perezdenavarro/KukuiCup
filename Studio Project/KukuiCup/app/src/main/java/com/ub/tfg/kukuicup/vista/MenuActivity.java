@@ -10,6 +10,9 @@ import android.app.Activity;
 //import android.content.Context;
 import android.os.Bundle;
 import android.widget.ExpandableListView;
+import android.widget.ExpandableListView.OnChildClickListener;
+import android.view.View;
+import android.widget.Toast;
 
 public class MenuActivity extends Activity {
 	
@@ -35,6 +38,25 @@ public class MenuActivity extends Activity {
  
         // setting list adapter
         expListView.setAdapter(listAdapter);
+
+        // Listview on child click listener
+        expListView.setOnChildClickListener(new OnChildClickListener() {
+
+            @Override
+            public boolean onChildClick(ExpandableListView parent, View v,
+                                        int groupPosition, int childPosition, long id) {
+                // TODO Auto-generated method stub
+                Toast.makeText(
+                        getApplicationContext(),
+                        listDataHeader.get(groupPosition)
+                                + " : "
+                                + listDataChild.get(
+                                listDataHeader.get(groupPosition)).get(
+                                childPosition), Toast.LENGTH_SHORT)
+                        .show();
+                return false;
+            }
+        });
 	}
     /*
      * Preparing the list data

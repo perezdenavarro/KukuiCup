@@ -36,7 +36,7 @@
                     android:id="@+id/textView1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Saving Action name"/>
+                    android:text="Energy Challenge name"/>
 
                 <TextView
                     android:id="@+id/textView2"
@@ -52,34 +52,18 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
-                android:text="Configure your computer and any external monitor to sleep after 20 minutes of inactivity.
-
-Once you have changed your settings, please take a photo showing the new settings for use in verification"
+                android:text="Will you get the next challenge? Off and unplug all electrical appliances in your room before going to sleep. Perform this action for 5 consecutive days to win the challenge."
                 android:layout_gravity="center"
                 android:layout_margin="30dp"/>
 
 
-            <LinearLayout
-                android:orientation="horizontal"
-                android:layout_width="match_parent"
+            <Button
+                android:id="@+id/doBtn"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal">
-
-                <Button
-                    android:id="@+id/doBtn"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Done!"
-                    />
-
-                <Button
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Take a photo"
-                    android:id="@+id/photoBtn"
-                    />
-            </LinearLayout>
-
+                android:layout_gravity="center_horizontal"
+                android:text="Come on!"
+                />
         </LinearLayout>
 
     </LinearLayout>
